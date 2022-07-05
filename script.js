@@ -4,6 +4,8 @@ class Calculator {
     this.currentOperandTextElement = currentOperandTextElement;
     this.clear();
   }
+
+  // add class methods
 }
 
 // Variables
